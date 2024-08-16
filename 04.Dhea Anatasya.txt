@@ -1,0 +1,6 @@
+﻿Build started at 14.16...
+1>------ Build started: Project: 04.Dhea Anatasya, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>04.Dhea Anatasya -> C:\Users\LENOVO X390\source\repos\04.Dhea Anatasya\bin\Debug\net8.0\04.Dhea Anatasya.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 14.17 and took 07,841 seconds ==========
